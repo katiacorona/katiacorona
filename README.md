@@ -1,5 +1,4 @@
 <h1 align="left">Hi, I'm Katia</h1>
----
 <h3 align="left">A Software Engineering student from Mexico.</h3>
 <br>
 
