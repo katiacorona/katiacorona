@@ -10,10 +10,9 @@
 - 📝 I regularly write articles on my [medium](https://medium.com/@katiacorona) profile.
 
 ### Blog posts
-<ul>
-  <li>[Compiling C Files Using the GCC](https://medium.com/@katiacorona/compiling-c-files-using-the-gcc-92ad6061d032)</li>
-  <li>[Creating and Using Dynamic Libraries in C](https://medium.com/@katiacorona/creating-and-using-dynamic-libraries-in-c-8c2ad3f84871)</li>
-</ul>
+
+- [Compiling C Files Using the GCC](https://medium.com/@katiacorona/compiling-c-files-using-the-gcc-92ad6061d032)
+- [Creating and Using Dynamic Libraries in C](https://medium.com/@katiacorona/creating-and-using-dynamic-libraries-in-c-8c2ad3f84871)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
